@@ -1,0 +1,8 @@
+{
+  "appId": "com.raxon.mobilenumbers",
+  "appName": "دفتر شماره‌ها",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
